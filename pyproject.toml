@@ -1,0 +1,13 @@
+[project]
+name = "project-1"
+version = "0.1.0"
+description = "Real-time Spotify Data Engineering project with Streamlit dashboard"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "spotipy>=2.26.0",
+    "streamlit>=1.32.0",
+    "python-dotenv>=1.0.0",
+    "pandas>=2.0.0",
+    "plotly>=5.18.0",
+]
