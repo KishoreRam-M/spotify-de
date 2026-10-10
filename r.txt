@@ -1,0 +1,10 @@
+spotipy
+pandas
+ matplotlib
+ mysql-connector-python
+ fastapi
+uvicorn
+mysql-connector-python
+firebase-admin
+python-multipart
+pydantic
