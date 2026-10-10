@@ -1,17 +1,13 @@
 [project]
 name = "project-1"
 version = "0.1.0"
-description = "Add your description here"
+description = "Real-time Spotify Data Engineering project with Streamlit dashboard"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "fastapi>=0.143.0",
-    "firebase-admin>=7.7.0",
-    "matplotlib>=3.11.2",
-    "mysql-connector-python>=26.7.0",
-    "pandas>=3.0.6",
-    "pydantic>=2.14.0",
-    "python-multipart>=0.0.32",
     "spotipy>=2.26.0",
-    "uvicorn>=0.54.0",
+    "streamlit>=1.32.0",
+    "python-dotenv>=1.0.0",
+    "pandas>=2.0.0",
+    "plotly>=5.18.0",
 ]
